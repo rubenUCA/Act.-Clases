@@ -11,6 +11,7 @@ int main() {
     } else {
         cout << "El numero es impar." << endl;
     }
+    cout << "El numero es par." << endl;
 
     return 0;
 }   
