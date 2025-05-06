@@ -127,3 +127,8 @@ int main()
 
     return 0;
 }
+/* 
+Derechos de autor.
+Rubén Eliseo Martínez Pérez
+Carnet: 00076325
+*/
